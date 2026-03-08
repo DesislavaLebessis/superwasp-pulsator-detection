@@ -81,7 +81,7 @@ DOI: 10.5281/zenodo.14937227
 
 **Desislava Lebessis**  
 Citizen Scientist — SuperWASP / Zooniverse  
-[GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+[GitHub](https://github.com/YOUR-USERNAME) · www.linkedin.com/in/desislava-lebessis-57aa77b4
 
 ## License
 
